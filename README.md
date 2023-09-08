@@ -1,5 +1,5 @@
 
-# hieumtran's Website
+# HAI's Website
 
 Visit **[human-agent-interaction.github.io/HAI-website](https://human-agent-interaction.github.io/HAI-website)** 🚀
 
