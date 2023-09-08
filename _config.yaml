@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: hieumtran
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+title: HAI lab
+subtitle: Human and Agent Interaction
+description: Welcome to Human and Agent Interaction (HAI) lab at Purdue University. Our research focuses on designing and deploying interactive AI agents that can improve people's lives by providing personalized support based on each user's needs, traits, and behaviors.
+header: images/background_2.jpg
+footer: images/Huggable.jpg
 
 # site social media and other links
 links:

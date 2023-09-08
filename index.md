@@ -1,17 +1,15 @@
 ---
 ---
 
-# hieumtran's Website
-
-An engaging 1-3 sentence description of your lab.
+Welcome to Human and Agent Interaction (**HAI**) lab at Purdue University. Our research focuses on designing and deploying interactive AI agents that can improve people's lives by providing personalized support based on each user's needs, traits, and behaviors. We deploy these agents in-the-wild to evaluate how they build relationships and rapport with people over time and improve their wellbeing, health, and learning.
 
 {% include section.html %}
 
-## Highlights
+## News
 
-{% capture text %}
+<!-- {% capture text %} -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
 
 {%
   include button.html
