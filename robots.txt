@@ -1,1 +1,1 @@
-Sitemap: /HAI-website-test/sitemap.xml
+Sitemap: /HAI-website/sitemap.xml
