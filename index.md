@@ -7,9 +7,9 @@ Welcome to Human and Agent Interaction (**HAI**) lab at Purdue University. Our r
 
 ## News
 
-<!-- {% capture text %} -->
+{% capture text %}
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 {%
   include button.html
@@ -24,7 +24,7 @@ Welcome to Human and Agent Interaction (**HAI**) lab at Purdue University. Our r
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Huggable_2.jpg"
   link="research"
   title="Our Research"
   text=text
