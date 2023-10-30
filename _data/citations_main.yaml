@@ -1,0 +1,319 @@
+# DO NOT EDIT- GENERATED AUTOMATICALLY
+
+- id: doi:10.1007/s11257-022-09337-8
+  title: Deploying a robotic positive psychology coach to improve college students’ psychological well-being
+  authors:
+  - Sooyeon Jeon
+  - Laura Aymerich-Franch
+  - Kika Arias
+  - Sharifa Alghowinem
+  - Agata Lapedriza
+  - Rosalind Picard
+  - Hae Won Park
+  - Cynthia Breazeal 
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11257-022-09337-8/MediaObjects/11257_2022_9337_Fig2_HTML.png?as=webp
+  publisher: Springer
+  date: '2023-04-01'
+  link: https://link.springer.com/article/10.1007/s11257-022-09337-8
+
+- id: doi:10.1145/3568162.3578625
+  title: 'A Robotic Companion for Psychological Well-being: A Long-term Investigation of Companionship and Therapeutic Alliance'
+  authors:
+  - Sooyeon Jeong
+  - Laura Aymerich-Franch
+  - Sharifa Alghowinem
+  - Rosalind W. Picard
+  - Cynthia L. Breazeal
+  - Hae Won Park
+  publisher: Association for Computing Machinery
+  date: '2023-03-13'
+  link: https://dl.acm.org/doi/abs/10.1145/3568162.3578625
+  image: https://dl.acm.org/cms/asset/e28896cf-8e5f-481b-ace4-2e744c56962a/3568162.3578625.key.jpg
+
+- id: Thesis
+  title: Designing and Deploying Robotic Companions to Improve Human Psychological Wellbeing
+  authors:
+  - Sooyeon Jeong
+  publisher: Massachusetts Institute of Technology
+  date: '2022-06-29'
+  link: https://dspace.mit.edu/handle/1721.1/152006
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9666787/9666788/9666969/9666969-fig-1-source-large.gif
+
+- id: doi:10.1109/FG52635.2021.9666969.
+  title: "Beyond the Words: Analysis and Detection of Self-Disclosure Behavior during Robot Positive Psychology Interaction"
+  authors:
+  - Sharifa Alghowinem
+  - Sooyeon Jeong
+  - Kika Arias
+  - Rosalind Picard
+  - Cynthia Breazeal
+  - Hae Won Park 
+  publisher: IEEE
+  date: '2021-12-18'
+  link: https://ieeexplore.ieee.org/abstract/document/9666969
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9666787/9666788/9666969/9666969-fig-2-source-large.gif
+
+- id: doi:10.1145/3434073.3444671
+  title: "Practical Guidelines for Intent Recognition: BERT with Minimal Training Data Evaluated in Real-World HRI Application"
+  authors:
+  - Matthew Huggins
+  - Sharifa Alghowinem
+  - Sooyeon Jeong
+  - Pedro Colon-Hernandez
+  - Cynthia Breazeal
+  - Hae Won Park
+  publisher: Association for Computing Machinery
+  date: '2021-03-08'
+  link: https://dl.acm.org/doi/abs/10.1145/3434073.3444671
+  image: https://d3i71xaburhd42.cloudfront.net/8993599610050f8bce805d93a7aec787290ba631/4-Figure1-1.png
+
+- id: doi:10.1109/RO-MAN47096.2020.9223436
+  title: "Migratable AI: Effect of identity and information migration on users' perception of conversational AI agents"
+  authors:
+  - Ravi Tejwani
+  - Felipe Moreno
+  - Sooyeon Jeong
+  - Hae Won Park
+  - Cynthia Breazeal
+  publisher: IEEE
+  date: '2020-09-04'
+  link: https://ieeexplore.ieee.org/abstract/document/9223436
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9219088/9223329/9223436/tejwa1-p8-tejwa-small.gif
+
+- id: doi:0.1109/RO-MAN47096.2020.9223588
+  title: "A Robotic Positive Psychology Coach to Improve College Students’ Wellbeing"
+  authors:
+  - Sooyeon Jeong
+  - Sharifa Alghowinem
+  - Laura Aymerich-Franch
+  - Kika Arias
+  - Agata Lapedriza
+  - Rosalind Picard
+  - Hae Won Park
+  - Cynthia Breazeal
+  publisher: IEEE
+  date: '2020-09-04'
+  link: https://ieeexplore.ieee.org/abstract/document/9223588
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9219088/9223329/9223588/jeong2-p8-jeong-large.gif
+
+- id: N/A
+  title: Toward designing user-centered idle behaviors for social robots in the home
+  authors:
+  - Kika Arias
+  - Sooyeon Jeong
+  - Hae Won Park
+  - Cynthia Breazeal
+  publisher: IEEE
+  date: '2020-09-04'
+  link: https://malulu.github.io/HRI-Design-2020/assets/pdf/Arias%20et%20al.pdf
+
+- id: doi:10.1542/peds.2018-1511
+  title: Social robots for hospitalized children
+  authors:
+  - Deirdre E. Logan
+  - Cynthia Breazeal
+  - Matthew S. Goodwin
+  - Sooyeon Jeong
+  - Brianna O’Connell
+  - Duncan Smith-Freedman
+  - James Heathers
+  - Peter Weinstock
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-07-01'
+  link: https://publications.aap.org/pediatrics/article/144/1/e20181511/76828/Social-Robots-for-Hospitalized-Children
+  image: https://cf-images.us-east-1.prod.boltdns.net/v1/static/6056665225001/f7e3d80c-d42b-4846-8985-45ed7c3731d0/765c6032-34eb-421c-af0e-8efa56a3ba9a/1280x720/match/image.jpg
+
+- id: doi:10.1145/3173574.3174069
+  title: "Huggable: The Impact of Embodiment on Promoting Socio-emotional Interactions for Young Pediatric Inpatients"
+  authors:
+  - Sooyeon Jeong
+  - Cynthia Breazeal
+  - Deirdre Logan
+  - Peter Weinstock
+  publisher: Association for Computing Machinery
+  date: '2018-04-21'
+  link: https://dl.acm.org/doi/abs/10.1145/3173574.3174069
+  image: https://d3i71xaburhd42.cloudfront.net/87324cd3f8e129331c3422c2bdeb2edef6f92938/22-Figure8-1.png
+
+- id: doi:10.1109/ROMAN.2017.8172290
+  title: "Huggable: Impact of embodiment on promoting verbal and physical engagement for young pediatric inpatients"
+  authors:
+  - Sooyeon Jeong
+  - Cynthia Breazeal
+  - Deirdre Logan
+  - Peter Weinstock
+  publisher: IEEE
+  date: '2017-09-01'
+  link: https://ieeexplore.ieee.org/abstract/document/8172290
+  image: https://d3i71xaburhd42.cloudfront.net/4f5574542f2dbb062910e34d4a3c9862f32d75ed/3-Figure1-1.png
+
+- id: doi:10.1016/j.ijcci.2017.04.001
+  title: Children use non-verbal cues to learn new words from robots as well as people
+  authors:
+  - Jacqueline M. Kory Westlund 
+  - Leah Dickens 
+  - Sooyeon Jeong 
+  - Paul L. Harris 
+  - David DeSteno 
+  - Cynthia L. Breazeal
+  publisher: Elsevier
+  date: '2017-07-01'
+  link: https://www.sciencedirect.com/science/article/pii/S2212868916300538
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2212868916300538-gr1.jpg
+
+- id: doi:10.3389/fnhum.2017.00295
+  title: "Flat vs. Expressive Storytelling: Young Children’s Learning and Retention of a Social Robot’s Narrative"
+  authors:
+  - Jacqueline M. Kory Westlund
+  - Sooyeon Jeong
+  - Hae W. Park
+  - Samuel Ronfard
+  - Aradhana Adhikari
+  - Paul L. Harris
+  - David DeSteno
+  - Cynthia L. Breazeal
+  publisher: Frontiers Media SA
+  date: '2017-07-11'
+  link: https://www.frontiersin.org/articles/10.3389/fnhum.2017.00295/full
+  image: https://www.frontiersin.org/files/Articles/237968/fnhum-11-00295-HTML/image_m/fnhum-11-00295-g001.jpg
+
+- id: doi:10.1145/3029798.3034803
+  title: Toward Robotic Companions that Enhance Psychological Wellbeing with Smartphone Technology
+  authors:
+  - Sooyeon Jeong
+  - Cynthia Breazeal
+  publisher: Association for Computing Machinery
+  date: '2017-03-06'
+  link: https://dl.acm.org/doi/abs/10.1145/3029798.3034803
+
+- id: Thesis
+  title: "The impact of social robots on young patients' socio-emotional wellbeing in a pediatric inpatient care context"
+  authors:
+  - Sooyeon Jeong
+  publisher: Massachusetts Institute of Technology
+  date: '2017-07-31'
+  link: https://dspace.mit.edu/handle/1721.1/112538
+  image: https://pharmaphorum.com/wp-content/uploads/2019/07/huggable.jpg
+
+- id: doi:10.1145/2974804.2974831
+  title: "Improving smartphone users' affect and wellbeing with personalized positive psychology interventions"
+  authors:
+  - Sooyeon Jeong
+  - Cynthia Lynn Breazeal
+  publisher: Association for Computing Machinery
+  date: '2016-10-04'
+  link: https://dl.acm.org/doi/abs/10.1145/2974804.2974831
+  image: https://d3i71xaburhd42.cloudfront.net/3b80aad63500f61d971ad5a1d29bb1a20bc56158/2-Figure1-1.png
+
+- id: doi:10.1111/tops.12192
+  title: Young children treat robots as informants
+  authors:
+  - Cynthia	Breazeal
+  - Paul Harris
+  - David DeSteno
+  - Jacqueline Kory
+  - Leah Dickens
+  - Sooyeon Jeong
+  publisher: Wiley Blackwell
+  date: '2016-03-04'
+  link: https://dspace.mit.edu/handle/1721.1/108204
+  image: https://onlinelibrary.wiley.com/cms/asset/51a68757-a733-465c-a6e1-6cc7e486b480/tops12192-fig-0001-m.jpg
+
+- id: doi:10.1109/HRI.2016.7451856
+  title: "Tega: A social robot"
+  authors:
+  - Jacqueline Kory Westlund
+  - Jin Joo Lee
+  - Luke Plummer
+  - Fardad Faridi
+  - Jesse Gray
+  - Matt Berlin
+  - Harald Quintus-Bosz
+  - Robert Hartmann
+  - Mike Hess
+  - Stacy Dyer
+  - Kristopher dos Santos
+  - Sigurður Örn Aðalgeirsson
+  - Goren Gordon- Samuel Spaulding
+  - Marayna Martinez
+  - Madhurima Das
+  - Maryam Archie
+  - Sooyeon Jeong
+  - Cynthia Breazeal
+  publisher: IEEE
+  date: '2016-04-01'
+  link: https://dspace.mit.edu/handle/1721.1/110311
+  image: https://images.wevolver.com/eyJidWNrZXQiOiJ3ZXZvbHZlci1wcm9qZWN0LWltYWdlcyIsImtleSI6IjAuYnRnYW4yYXNzcm1UZWdhLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDAwLCJoZWlnaHQiOjI1MCwiZml0IjoiY292ZXIifX19
+
+- id: N/A
+  title: "A comparison of children learning new words from robots, tablets, & people"
+  authors:
+  - Jacqueline Kory Westlund
+  - Leah Dickens
+  - Sooyeon Jeong
+  - Paul Harris
+  - David DeSteno
+  - Cynthia Breazeal
+  publisher: Proceedings of the 1st international conference on social robots in therapy and education.
+  date: '2015-11-30'
+  link: https://jakory.textplain.net/static/papers/KoryWestlund-2015-NewFriends.pdf
+  image: ./images/children_learning_new_words.jpg
+
+- id: doi:10.1145/2771839.2771923
+  title: Designing a socially assistive robot for pediatric care
+  authors:
+  - Sooyeon Jeong
+  - Kristopher Dos Santos
+  - Suzanne Graca
+  - Brianna O'Connell
+  - Laurel Anderson
+  - Nicole Stenquist
+  - Katie Fitzpatrick
+  - Honey Goodenough
+  - Deirdre Logan
+  - Peter Weinstock
+  - Cynthia Breazeal
+  publisher: Association for Computing Machinery
+  date: '2015-06-21'
+  link: https://dl.acm.org/doi/10.1145/2771839.2771923
+  image: https://d3i71xaburhd42.cloudfront.net/47ec58ede99cf7d89edf6590ff998b5b9e2f8ece/2-Figure1-1.png
+
+- id: doi:10.1145/2701973.2702028
+  title: A social robot to mitigate stress, anxiety, and pain in hospital pediatric care
+  authors:
+  - Sooyeon Jeong
+  - Deirdre E. Logan
+  - Matthew S. Goodwin
+  - Suzanne Graca
+  - Brianna O'Connell
+  - Honey Goodenough
+  - Laurel Anderson
+  - Nicole Stenquist
+  - Katie Fitzpatrick
+  - Miriam Zisook
+  - Luke Plummer
+  - Cynthia Breazeal
+  - Peter Weinstock
+  publisher: Association for Computing Machinery
+  date: '2015-03-02'
+  link: https://dl.acm.org/doi/abs/10.1145/2701973.2702028
+  image: https://d3i71xaburhd42.cloudfront.net/4f5574542f2dbb062910e34d4a3c9862f32d75ed/3-Figure1-1.png
+
+# - id: 
+#   title: Challenges in Developing Socially Assistive Robots in Pediatric Inpatient Care Context
+#   authors:
+#   - Sooyeon Jeong
+#   - Cynthia Breazeal
+#   publisher:  
+
+- id: doi:10.1145/2522848.2531750
+  title: Robotic learning companions for early language development
+  authors:
+  - Jacqueline M. Kory
+  - Sooyeon Jeong
+  - Cynthia L. Breazeal
+  publisher: Association for Computing Machinery
+  date: '2013-12-09'
+  link: https://dl.acm.org/doi/10.1145/2522848.2531750
+  image: https://dl.acm.org/cms/asset/01367272-44a5-4e9d-b2ef-7a8802cd7e70/2522848.2531750.key.jpg
+
