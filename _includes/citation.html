@@ -1,4 +1,4 @@
-{% assign citation = site.data.citations
+{% assign citation = site.data.citations_main
   | where_exp: "citation",
     "citation.id == include.lookup or citation.title contains include.lookup"
   | first
