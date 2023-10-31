@@ -1,47 +1,70 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Breast Cancer Survivor Agent 
+  subtitle: Adi Ojha
+  group: featured
+  image: images/Civilian_Agent_Image.png
+  link: https://github.com/Human-Agent-Interaction
+  description: Intelligent Tutoring Systems (ITSs) can democratize access to information by providing an engaging learning experience that has been shown to improve learning recall for the medium to long term. While current ITSs span from basic reading comprehension to positive psychology interventions, we noticed a lack of ITSs designed for underserved populations. To bridge this gap, this project aims to develop and test an ITS aimed at cancer survivorship for low literacy Latinas.  
+  # tags:
+  #   - resource
+
+- title: Speech Therapy Robot 
+  subtitle: Shifa Somji and Guven Gergerli 
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  link: https://github.com/Human-Agent-Interaction
+  description: Aphasia is a language disorder caused by acquired brain injury that affects about two million people yearly. People with aphasia have difficulties producing and understanding spoken language and often are not able to get the extensive speech therapy they need due to insurance or transportation issues. This project aims to use socially assistive robots as a long-term speech therapy solution for patients with aphasia. 
+  # tags:
+  #   - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+- title: Backchanneling Empathy Agent 
+  subtitle: Hieu Tran, Michael Lackey, and Carl Guo  
+  # group: featured
+  image: images/backchannel.png
+  link: https://github.com/Human-Agent-Interaction
+  description: In linguistics, a backchannel response serves as a way to signify the listener’s attention, understanding, or sympathy, rather than conveying essential information.  Some examples of backchanneling in English "yeah", "OK", "uh-huh", "hmm", "right", and "I see". This project aims to create an empathy backchannel agent alleviate the pain of a subgroup minority Chinese people in Chicago.  
+  # tags:
+  #   - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Privacy Interface for Social Robots
+  subtitle: Nishchal Jagadeesha
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+  link: https://github.com/Human-Agent-Interaction
+  description: The aim is to conduct a detailed study of different privacy issues in the process of data collection from various sensors on a social robot. Specifically, we concentrate on aged people (65+ year-old) and their interactions with social robots, their views on privacy issues, and their thoughts on different designs that could be implemented to address the issues. Considering their inputs and our research, we then plan to build a privacy setting interface for a social robot, deploy it and study and gain insights/interesting patterns from long-term usage patterns.  
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Cool Package
+#   subtitle: a subtitle
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+# - title: Cool Tutorial
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - resource
+#     - publication
+
+# - title: Cool Web App
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
+
+# - title: Cool Web Server
+#   subtitle: a subtitle
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   repo: greenelab/lab-website-template
+#   tags:
+#     - software
