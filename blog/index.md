@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 nav:
   order: 0
   tooltip: Musings and miscellany
