@@ -10,7 +10,7 @@
 - title: Speech Therapy Robot 
   subtitle: Shifa Somji and Guven Gergerli 
   group: featured
-  image: images/photo.jpg
+  image: images/Aphasia.jpg
   link: https://github.com/Human-Agent-Interaction
   description: Aphasia is a language disorder caused by acquired brain injury that affects about two million people yearly. People with aphasia have difficulties producing and understanding spoken language and often are not able to get the extensive speech therapy they need due to insurance or transportation issues. This project aims to use socially assistive robots as a long-term speech therapy solution for patients with aphasia. 
   # tags:
