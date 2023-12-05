@@ -4,6 +4,8 @@ image: images/team_photos/naneja.png
 #description: Researcher
 role: collaborator
 links:
+    home-page: https://naneja.github.io/
+    google-scholar: iNKEYXkAAAAJ
 ---
 
 Dr. Nagender Aneja is an Assistant Professor in the School of Digital Science at the Universiti Brunei Darussalam in Brunei Darussalam and a Visiting Research Scholar in the Department of Computer Science at Purdue University. He received his Ph.D. in Computer Engineering from J.C. Bose University of Science and Technology, YMCA, India, and his M.E. in Computer Technology and Applications from Delhi College of Engineering. His research interests include Deep Learning, Computer Vision, and Natural Language Processing.

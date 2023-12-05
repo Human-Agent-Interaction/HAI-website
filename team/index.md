@@ -5,20 +5,20 @@ nav:
 #  tooltip: About our team
 ---
 
-{% include icon.html icon="fa-solid fa-users" %} Principal Investigator
+# Principal Investigator
 {% include list.html data="members" component="portrait" filters="role: PI" %}
 
-{% include icon.html icon="fa-solid fa-users" %} PhD Students
+# PhD Students
 {% include list.html data="members" component="portrait" filters="role: PhD" %}
 
-{% include icon.html icon="fa-solid fa-users" %} MS Students
+# MS Students
 {% include list.html data="members" component="portrait" filters="role: MS" %}
 
-{% include icon.html icon="fa-solid fa-users" %} Undergraduate Students
+# Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: UG" %}
 
-{% include icon.html icon="fa-solid fa-users" %} Staff
+# Research Staff
 {% include list.html data="members" component="portrait" filters="role: staff" %}
 
-{% include icon.html icon="fa-solid fa-users" %} Collaborators
+# Visiting Scholar 
 {% include list.html data="members" component="portrait" filters="role: collaborator" %}
