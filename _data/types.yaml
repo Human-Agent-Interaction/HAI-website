@@ -45,7 +45,7 @@ external:
 
 home-page:
   icon: fa-solid fa-house-user
-  text: Home Page
+  text: Personal Website
   tooltip: Home page
 
 email:
@@ -62,7 +62,7 @@ phone:
 
 address:
   icon: fa-solid fa-map-location-dot
-  text: Address
+  text: Google Map
   tooltip: Address
 
 search:

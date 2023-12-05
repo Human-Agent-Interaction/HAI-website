@@ -2,14 +2,14 @@
 title: Human-Agent Interaction Laboratory
 #subtitle: HAI
 description: Our research focuses on designing and deploying interactive AI agents that can improve people's lives by providing personalized support based on each user's needs, traits, and behaviors.
-header: images/background_2.jpg
-footer: images/Huggable.jpg
+header: images/background_purdue_top.jpeg
+footer: images/background_purdue_bottom.jpeg
 
 # site social media and other links
 links:
   email: humanaipurdue@gmail.com
 #   orcid: 0000-0001-8713-9213
-  # google-scholar: obVs9ZAAAAAJ&hl=en&oi=sra
+  google-scholar: obVs9ZAAAAAJ&hl=en&oi=sra
   # github: Human-Agent-Interaction
   twitter: HAIPurdue
 #   youtube: hieumtran

@@ -11,11 +11,11 @@ HAI lab projects focus on exploring and enhancing the collaboration and communic
 
 {% include tags.html tags="publication, resource, website" %}
 
-{% include search-info.html %}
+<!--- {% include search-info.html %} -->
 
 {% include section.html %}
  
-# Featured
+# Past Projects
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
