@@ -1,7 +1,7 @@
 ---
 name: Adi Ojha
 image: images/team_photos/Adi_Ojha.jpg
-role: phd
+role: PhD
 #group: alum
 links:
   github: 

@@ -1,7 +1,7 @@
 ---
 name: Hieu Tran
 image: images/team_photos/Hieu_Tran.jpg
-role: phd
+role: PhD
 #group: alum
 links:
   github: hieumtran

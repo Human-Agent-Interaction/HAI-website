@@ -1,8 +1,8 @@
 ---
 name: Carl Guo
 image: images/team_photos/Carl_Guo.jpeg
-description: Undergrad Researcher
-role: undergrad
+#description: Undergrad Researcher
+role: UG
 links:
   email: guo549@purdue.edu
   linkedin: carlguo

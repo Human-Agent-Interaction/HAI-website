@@ -1,17 +1,26 @@
 ---
 title: Research
 nav:
-  order: 1
-  tooltip: Published works
+  order: 2
+#  tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# Research Vision
 
-In an increasingly interconnected and digital world, the study of human and agent interaction has become a focal point of research, with profound implications for fields such as artificial intelligence, human-computer interaction, psychology, and sociology. This multidisciplinary area of inquiry explores the ways in which humans engage with and respond to intelligent agents, be they in the form of virtual assistants, chatbots, robots, or other AI-driven systems. Understanding the dynamics of this interaction is not only essential for improving the design and effectiveness of these technologies but also for unraveling the complex web of human-technology relationships that shape our daily lives. Our mission is to delve into the intricacies of communication, trust, empathy, and decision-making in the context of human-agent interaction, shedding light on the profound ways in which it is reshaping the fabric of our society.
+ We design relational AI agents, such as social robots and embodied conversational agents, that improve people's lives through personalized intervention and social support. These agents continue to learn about each person's unique needs, traits, and preferences through long-term interactions in real world context and provide tailored information, social support, and intervention at the right time and place. We believe relational technologies can become helpful companions for people and close the gaps that exist in our society and systems for better human lives.  
 
-{% include section.html %}
 
-## Highlighted
+## Improving Human-Machine Communication
+need to update text here (backchanneling, social intelligence project)
+
+## Relational Agents for Real World Applications 
+need to update text here (healthcare and education, etc)
+
+## Personalizing Intervention and Interaction Support
+need to update text here ()
+
+<!--  {% include section.html %}
+
 
 {% include citation.html lookup="A Robotic Companion for Psychological Well-being: A Long-term Investigation of Companionship and Therapeutic Alliance" style="rich" %}
 
@@ -23,4 +32,4 @@ In an increasingly interconnected and digital world, the study of human and agen
 
 {% include search-info.html %}
 
-{% include list.html data="citations_main" component="citation" style="rich" %}
+{% include list.html data="citations_main" component="citation" style="rich" %} -->

@@ -1,7 +1,7 @@
 ---
 name: Shifa Somji
 image: images/team_photos/Shifa Somji.jpg
-role: phd
+role: PhD
 #group: alum
 links:
   github: 

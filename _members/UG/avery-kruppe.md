@@ -1,8 +1,8 @@
 ---
 name: Avery Kruppe
 image: images/team_photos/Avery Kruppe.png
-description: Undergrad Researcher
-role: undergrad
+#description: Undergrad Researcher
+role: UG
 links:
 ---
 
