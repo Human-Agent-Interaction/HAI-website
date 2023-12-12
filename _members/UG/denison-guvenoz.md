@@ -1,6 +1,6 @@
 ---
 name: Denison Guvenoz
-image: images/team_photos/Denison Guvenoz.jpg
+image: images/team_photos/Denison_Guvenoz.jpg
 #description: Undergraduate Researcher
 role: UG
 links:
