@@ -68,7 +68,7 @@ nav:
 {%
   include feature.html
   image="images/news/purdue_hci_meeting.jpeg"
-  link="https://twitter.com/HAIPurdue/status/1724544400750158249"
+  link="https://twitter.com/HAIPurdue/status/1715495433898688883"
   title="First Purdue CS HCI get-together!"
   flip=true
   style="bare"
