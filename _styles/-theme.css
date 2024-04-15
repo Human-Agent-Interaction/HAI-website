@@ -29,10 +29,10 @@
   --large: 1.6rem;
   --xl: 1.8rem;
   --xxl: 2.0rem;
-  --thin: 200;
-  --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
+  --thin: 400;
+  --regular: 500;
+  --semi-bold: 600;
+  --bold: 700;
   --spacing: 2;
   --rounded: 3px;
   --shadow: 0 0 10px 0 var(--overlay);
