@@ -7,7 +7,7 @@ nav:
 
 # Research Vision
 
- We design relational AI agents, such as social robots and embodied conversational agents, that improve people's lives through personalized intervention and social support. These agents continue to learn about each person's unique needs, traits, and preferences through long-term interactions in real world context and provide tailored information, social support, and intervention at the right time and place. We believe relational technologies can become helpful companions for people and close the gaps that exist in our society and systems for better human lives.  
+<p style="text-align: center; font-size: 18px;"> We design relational AI agents, such as social robots and embodied conversational agents, that improve people's lives through personalized intervention and social support. These agents continue to learn about each person's unique needs, traits, and preferences through long-term interactions in real world context and provide tailored information, social support, and intervention at the right time and place. We believe relational technologies can become helpful companions for people and close the gaps that exist in our society and systems for better human lives. </p>
 
 
 ## 1. Improving Human-Machine Communication
