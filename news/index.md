@@ -9,7 +9,7 @@ nav:
 
 {% capture text %}
 
-<p style="text-align: center;">Denison Guvenoz and Avery Kruppe presented their work "Evaluating Robots' Social Intelligence" at the Purdue Fall Undergrad Research Expo. </p>
+<p style="text-align: center; font-size: 18px;">Denison Guvenoz and Avery Kruppe presented their work "Evaluating Robots' Social Intelligence" at the Purdue Fall Undergrad Research Expo. </p>
 
 {%
   include button.html
@@ -36,7 +36,7 @@ nav:
 
 {% capture text %}
 
-<p style="text-align: center;">How can social robots act as helpful companions and help people improve their psychological well-being? Can robots personalize to an individual user's needs? An invited article "Living With Robotic Companions for Better Psychological Well-being" is published in ACM XRDS. </p>
+<p style="text-align: center; font-size: 18px;">How can social robots act as helpful companions and help people improve their psychological well-being? Can robots personalize to an individual user's needs? An invited article "Living With Robotic Companions for Better Psychological Well-being" is published in ACM XRDS. </p>
 
 {%
   include button.html
@@ -61,7 +61,7 @@ nav:
 
 {% capture text %}
 
-<p style="text-align: center;">The Human-Agent Interaction Lab (PI: Sooyeon Jeong), the Purdue Crowdsourcing Lab (PI: Ming Yin), and the Human-Centered Software Systems Lab (PI: Tianyi Zhang) met together to kick off the first HCI meeting.</p>
+<p style="text-align: center; font-size: 18px;">The Human-Agent Interaction Lab (PI: Sooyeon Jeong), the Purdue Crowdsourcing Lab (PI: Ming Yin), and the Human-Centered Software Systems Lab (PI: Tianyi Zhang) met together to kick off the first HCI meeting.</p>
 
 {% endcapture %}
 
