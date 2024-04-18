@@ -11,7 +11,7 @@ nav:
 
 
 ## 1. Improving Human-Machine Communication
-need to update text here (backchanneling, social intelligence project)
+We endeavor to enhance human-machine communication by creating interactive systems that adapt and learn from long-term interactions in real-world contexts. These agents aim to provide tailored information, social support, and interventions at specific moments, fostering a sense of companionship and addressing societal gaps for improved human well-being.
 
 ## 2. Relational Agents for Real World Applications 
 need to update text here (healthcare and education, etc)
