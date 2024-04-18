@@ -13,7 +13,7 @@ nav:
 
 {%
   include button.html
-  link=""
+  link="..\posters\Avery&Denison Research.pdf"
   text="Check out the poster"
   icon="fa-solid fa-arrow-right"
   flip=true
