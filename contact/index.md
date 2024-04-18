@@ -6,7 +6,7 @@ nav:
 ---
 
 # Current Purdue  Students 
-<p style="text-align: center; font-size: 18px;"> Please reach out to [Prof. Sooyeon Jeong](mailto:sooyeonj@purdue.edu) to inquire about open positions in the lab and include the following: 
+<p style="font-size: 18px;"> Please reach out to [Prof. Sooyeon Jeong](mailto:sooyeonj@purdue.edu) to inquire about open positions in the lab and include the following: 
 - A summary of one research paper published from the HAI group and proposed approach to improve the work
 - CV/resume, including a list of relevant coursework and previous publications
 - (optional) Links to your personal website or portfolio </p>
@@ -14,20 +14,22 @@ nav:
 ---
 
 # Non-Purdue Students
-<p style="text-align: center; font-size: 18px;"> Non-Purdue students who are seeking M.S./Ph.D. positions will have to apply online through the [Purdue CS admission portal](https://www.cs.purdue.edu/graduate/index.html) and mention Prof. Sooyeon Jeong as a potential advisor. </p>
+<p style="font-size: 18px;"> Non-Purdue students who are seeking M.S./Ph.D. positions will have to apply online through the [Purdue CS admission portal](https://www.cs.purdue.edu/graduate/index.html) and mention Prof. Sooyeon Jeong as a potential advisor. </p>
 
 ---
 
 # Collaborations & Partnerships
-<p style="text-align: center; font-size: 18px;"> Our work is highly interdisciplinary and we are always looking for opportunities to collaborate with other research groups, industry partners, domain experts, and community partners! </p>
+<p style="font-size: 18px;"> Our work is highly interdisciplinary and we are always looking for opportunities to collaborate with other research groups, industry partners, domain experts, and community partners! </p>
 
 ---
 
 # Mailing Address
-<p style="text-align: center; font-size: 18px;"> Human-Agent Interaction Lab \\
-Haas G14 \\
-250 N University St. \\
-West Lafayette, IN 47907 </p>
+<p style="font-size: 18px; white-space: pre-line"> 
+Human-Agent Interaction Lab 
+Haas G14
+250 N University St. 
+West Lafayette, IN 47907 
+</p>
 
 
 {%
