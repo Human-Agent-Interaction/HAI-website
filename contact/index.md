@@ -6,8 +6,7 @@ nav:
 ---
 
 # Current Purdue  Students 
-<p style="font-size: 18px; white-space: pre-line;"> 
-Please reach out to <a href ="mailto:sooyeonj@purdue.edu">Prof. Sooyeon Jeong</a> to inquire about open positions in the lab and include the following: 
+<p style="font-size: 18px; white-space: pre-line;"> Please reach out to <a href ="mailto:sooyeonj@purdue.edu">Prof. Sooyeon Jeong</a> to inquire about open positions in the lab and include the following: 
 - A summary of one research paper published from the HAI group and proposed approach to improve the work
 - CV/resume, including a list of relevant coursework and previous publications
 - (optional) Links to your personal website or portfolio 
@@ -28,8 +27,7 @@ Non-Purdue students who are seeking M.S./Ph.D. positions will have to apply onli
 ---
 
 # Mailing Address
-<p style="font-size: 18px; white-space: pre-line"> 
-Human-Agent Interaction Lab 
+<p style="font-size: 18px; white-space: pre-line"> Human-Agent Interaction Lab 
 Haas G14
 250 N University St. 
 West Lafayette, IN 47907 
