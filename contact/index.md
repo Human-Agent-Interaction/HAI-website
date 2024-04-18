@@ -6,15 +6,19 @@ nav:
 ---
 
 # Current Purdue  Students 
-<p style="font-size: 18px;"> Please reach out to [Prof. Sooyeon Jeong](mailto:sooyeonj@purdue.edu) to inquire about open positions in the lab and include the following: 
+<p style="font-size: 18px; white-space: pre-line;"> 
+Please reach out to <a href ="mailto:sooyeonj@purdue.edu">Prof. Sooyeon Jeong</a> to inquire about open positions in the lab and include the following: 
 - A summary of one research paper published from the HAI group and proposed approach to improve the work
 - CV/resume, including a list of relevant coursework and previous publications
-- (optional) Links to your personal website or portfolio </p>
+- (optional) Links to your personal website or portfolio 
+</p>
 
 ---
 
 # Non-Purdue Students
-<p style="font-size: 18px;"> Non-Purdue students who are seeking M.S./Ph.D. positions will have to apply online through the [Purdue CS admission portal](https://www.cs.purdue.edu/graduate/index.html) and mention Prof. Sooyeon Jeong as a potential advisor. </p>
+<p style="font-size: 18px;"> 
+Non-Purdue students who are seeking M.S./Ph.D. positions will have to apply online through the <a href = "https://www.cs.purdue.edu/graduate/index.html">Purdue CS admission portal</a> and mention Prof. Sooyeon Jeong as a potential advisor. 
+</p>
 
 ---
 
