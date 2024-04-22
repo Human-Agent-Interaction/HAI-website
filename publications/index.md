@@ -11,9 +11,9 @@ nav:
 <!-- # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-<!-- {% include section.html %}
+{% include section.html %}
 
 {% include search-box.html %}
  
@@ -21,12 +21,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %} -->
+{% include list.html data="posts" component="post-excerpt" %}
 
-<!-- {% capture text %}
-
-<p style="text-align: center;">A new study demonstrates, for the first time, that “social robots” used in support sessions held in pediatric units at hospitals can lead to more positive emotions in sick children.</p>
-
+{% capture text %}
 
 {%
   include button.html
