@@ -27,7 +27,6 @@ nav:
   image="images/news/purdue_news.jpg"
   link="https://twitter.com/HAIPurdue/status/1783599663200792615"
   title="Purdue News features HAI Lab!"
-  flip=true
   style="bare"
   text=text
 %}
