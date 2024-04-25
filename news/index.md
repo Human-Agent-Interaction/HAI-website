@@ -9,6 +9,33 @@ nav:
 
 {% capture text %}
 
+<p style="text-align: center; font-size: 18px;">Read the Purdue News article for information on current projects and our long term vision for interactions between robots and humans. </p>
+
+{%
+  include button.html
+  link="https://www.purdue.edu/newsroom/releases/2024/Q2/more-than-machines-computer-scientist-prepares-robots-to-improve-human-lives.html"
+  text="Read the article"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html 
+  image="images/news/purdue_news.jpg"
+  link="https://twitter.com/HAIPurdue/status/1783599663200792615"
+  title="Purdue News features HAI Lab!"
+  flip=true
+  style="bare"
+  text=text
+%}
+
+---
+
+{% capture text %}
+
 <p style="text-align: center; font-size: 18px;">Denison Guvenoz and Avery Kruppe presented their work "Evaluating Robots' Social Intelligence" at the Purdue Fall Undergrad Research Expo. </p>
 
 {%
